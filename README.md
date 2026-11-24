@@ -102,7 +102,7 @@ are excluded from delivery by `.hlxignore`. This static fixture does not replace
 the AEM/DA content checks above.
 
 After the feature branch is pushed and content is previewed, review:
-https://aljoseph-adobe-eds-capstone-block--alwin-eds-2026--alwinjoseph02.aem.page/session-2
+https://eds-capstone--alwin-eds-2026--alwinjoseph02.aem.page/session-2
 
 This URL is a review target, not evidence that content was authored or that code
 sync has completed. DA live preview has limitations; see
